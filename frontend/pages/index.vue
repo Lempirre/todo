@@ -4,6 +4,7 @@
       Login
     </h1>
     <form @submit.prevent="performLogin" action="post">
+    <!--test--!>
       <p>
         <input
           id="username"
